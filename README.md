@@ -1,9 +1,11 @@
+# NBAC/NTAC Collaboration Repo
+
 A Github repo for collaboration between the NIEM Technical Architecture Committee (NTAC) and the NIEM Business Architecture Committee (NBAC).
 
 - Issue tracker: <https://github.com/NIEM/NBAC-NTAC-collaboration/issues>
 - Issue project board: <https://github.com/NIEM/NBAC-NTAC-collaboration/projects/1>
 
-# Workflow
+## Workflow
 
 The goal of the NBAC-NTAC collaboration workflow is to support completion of the joint work of the NIEM governance committees with clear responsibility throughout the process. 
 
@@ -14,7 +16,7 @@ The project board has 3 columns, corresponding to states of an issue:
 - NTAC responsibility: The NTAC or its members must do something to resolve an issue.
 - Resolved: The tasks for an issue were completed, and need to be validated by the submitter.
 
-# Issue conventions
+## Issue conventions
 
 Assign the issue to a Github user according to which organization is responsible for the issue:
 - NTAC responsibility: assign to Github user [TomCarlson-NTAC](https://github.com/TomCarlson-NTAC)
